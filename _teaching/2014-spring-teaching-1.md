@@ -13,9 +13,9 @@ Welcome to the Monash Malaysia Drone Team! We are a diverse group of passionate 
 
 ## 👩‍🏫 Lecturers
 
-- **Dr. Alice Tan** – Senior Lecturer, specializes in embedded systems and autonomous flight.
-- **Dr. Raymond Lee** – Expert in machine learning and computer vision.
-- **Dr. Nora Ismail** – Researcher in robotics and systems integration.
+- **Prof. Raphael Phan** – Coordinator and Deputy Head of School. [Google Scholar](https://scholar.google.com/citations?user=EXAMPLE1)
+- **Dr Adamu Muhammad Buhari** – Researcher in robotics and systems integration. [Google Scholar](https://scholar.google.com/citations?user=EXAMPLE1)
+- **Dr Leong Shu Min** – Expert in machine learning and computer vision. [Google Scholar](https://scholar.google.com/citations?user=EXAMPLE1)
 
 ---
 
