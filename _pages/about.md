@@ -15,7 +15,7 @@ redirect_from:
  
  ---
  
- ## 🎯 Our Mission
+## 🎯 Our Mission
  
  To foster innovation and hands-on research in drone technology through collaborative projects, student engagement, and academic excellence.
  
@@ -29,7 +29,33 @@ redirect_from:
  - Mentor and guide students through capstone projects and hands-on labs  
  
  ---
- 
+
+## 🚁 Our Drones and Hardware
+
+We are equipped with a variety of cutting-edge drones and other hardware that allow us to push the boundaries of innovation. Here's a look at some of the key pieces of technology we use in our research and projects:
+
+### Drones
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.5rem;">
+  <div style="text-align: center;">
+    <img src="https://example.com/drone1.jpg" alt="Drone Model 1" width="100%" />
+    <h4>DJI FPV Drone</h4>
+    <p>A high-performance drone designed for capturing high-resolution unmanned aerial vehicle (UAV) datasets with 4k camera.</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://example.com/drone2.jpg" alt="Drone Model 2" width="100%" />
+    <h4>DJI Tello Edu</h4>
+    <p>A smaller, lightweight drone optimized for indoor flight and precision machine learning tasks.</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://example.com/drone3.jpg" alt="Drone Model 3" width="100%" />
+    <h4>Drone Edu</h4>
+    <p>A lightweight drone to perform simple flying task with application controller.</p>
+  </div>
+</div>
+
 ## 👨‍💻 Our Team
  
  We are proud of our talented team made up of:
