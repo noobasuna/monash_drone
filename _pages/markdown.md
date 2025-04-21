@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: archive
 title: "Contact Us"
-permalink: /contact/
+permalink: /markdown/
+author_profile: true
 ---
 
 # Contact Us
