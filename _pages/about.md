@@ -21,7 +21,7 @@ To foster innovation and hands-on research in drone technology through collabora
 
 - Conduct applied research in autonomous drones, computer vision, and robotics  
 - Organize technical workshops, demos, and outreach programs (e.g., MUFY Immersion Day)  
-- Collaborate with industry partners and academic institutions on real-world challenges  
+- Exploring potential collaboration with industry partners and academic institutions on real-world challenges  
 - Mentor and guide students through capstone projects and hands-on labs  
 
 ---
@@ -30,8 +30,8 @@ To foster innovation and hands-on research in drone technology through collabora
 
 We are proud of our talented team made up of:
 
-- **3 Lecturers** with expertise in AI, robotics, cybersecurity, and computer vision  
-- **4 Undergraduate students** working on drone software, hardware integration, and research  
+- **3 Academic Staffs** with expertise in AI, robotics, cybersecurity, and computer vision  
+- **4 Postgraduate students** working on drone software, hardware integration, and research  
 - **1 Technical Specialist** supporting maintenance and training  
 
 Learn more about the [people behind the project](/teaching/team-members).
