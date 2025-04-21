@@ -1,4 +1,4 @@
-.container {
+/* .container {
     width:100%;
     border:1px solid #d3d3d3;
 }
@@ -14,4 +14,29 @@
 .container .content {
     display: none;
     padding : 5px;
+} */
+
+.container {
+    width: 100%;
+    border: 1px solid #d3d3d3;
+}
+
+.container div {
+    width: 100%;
+}
+
+.container .header {
+    background-image: url('/images/352.jpg'); /* Set the image */
+    background-size: cover; /* Ensure the image covers the entire header */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    padding: 2px;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: rgba(211, 211, 211, 0.5); /* Add transparency to the background color */
+}
+
+.container .content {
+    display: none;
+    padding: 5px;
 }
