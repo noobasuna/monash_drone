@@ -36,7 +36,7 @@ We are equipped with a variety of cutting-edge drones and other hardware that al
 
 ### Drones
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.5rem;">
   <div style="text-align: center;">
     <img src="https://noobasuna.github.io/monash_drone/images/fpv.png" alt="Drone Model 1" width="100%" height="200px" style="object-fit: cover;" />
     <h4>DJI FPV Drone</h4>
