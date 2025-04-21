@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/20230530 - Monash University Research Labs_359.jpg" alt="About Us" width="600"/>
+<p align="center">
+  <img src="/images/20230530-Monash-University-Research-Labs_359.jpg" alt="About Us" width="600"/>
+</p>
 
 The **Monash Malaysia Drone Team** is a dynamic, multidisciplinary group based in the **School of Information Technology** at **Monash University Malaysia**. We are a collective of lecturers, students, and technical specialists working together to advance the frontiers of drone technology, robotics, and intelligent systems.
 
