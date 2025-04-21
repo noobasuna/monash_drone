@@ -8,7 +8,7 @@ redirect_from:
 ---
 <style>
   body {
-    background-image: url('https://noobasuna.github.io/monash_drone/images/359.jpg');
+    background-image: url('https://noobasuna.github.io/monash_drone/images/352.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
