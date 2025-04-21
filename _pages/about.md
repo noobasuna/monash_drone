@@ -24,7 +24,7 @@ redirect_from:
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(255, 255, 255, 0.5); /* White color with 50% opacity */
+    background: rgba(255, 255, 255, 0.2) /* White color with 50% opacity */
     z-index: -1; /* Ensures content appears above the overlay */
   }
 
