@@ -38,7 +38,7 @@ We are proud of our talented team made up of:
 - **4 Postgraduate students** working on drone software, hardware integration, and research  
 - **1 Technical Specialist** supporting maintenance and training  
 
-Learn more about the [people behind the project](/teaching/team-members).
+Learn more about the [people behind the project](/teaching.html).
 
 ---
 
