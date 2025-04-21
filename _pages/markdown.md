@@ -5,8 +5,6 @@ permalink: /markdown/
 author_profile: true
 ---
 
-# Contact Us
-
 We’d love to hear from you! Whether you're interested in collaborating, exploring research opportunities, or just curious about our work, feel free to reach out.
 
 ---
