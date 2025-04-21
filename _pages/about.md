@@ -20,8 +20,8 @@ redirect_from:
  To foster innovation and hands-on research in drone technology through collaborative projects, student engagement, and academic excellence.
  
  ---
- 
- ## 🔬 What We Do
+
+## 🔬 What We Do
  
  - Conduct applied research in autonomous drones, computer vision, and robotics  
  - Organize technical workshops, demos, and outreach programs (e.g., MUFY Immersion Day)  
@@ -30,7 +30,7 @@ redirect_from:
  
  ---
  
- ## 👨‍💻 Our Team
+## 👨‍💻 Our Team
  
  We are proud of our talented team made up of:
  
@@ -42,6 +42,6 @@ redirect_from:
  
  ---
  
- ## 🤝 Get Involved
+## 🤝 Get Involved
  
  We are always open to collaboration—whether you're a fellow researcher, industry partner, or student eager to learn. Visit our [Contact Page](/contact/) to connect with us!
