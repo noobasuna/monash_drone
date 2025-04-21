@@ -21,10 +21,10 @@ Welcome to the Monash Malaysia Drone Team! We are a diverse group of passionate 
 
 ## 👨‍🎓 Students
 
-- **John Lim** – Final year student focusing on drone path planning.
-- **Aisha Kumar** – Handles real-time object detection with Python.
-- **Chen Wei** – Works on drone hardware and custom builds.
-- **Sara Rahman** – Documentation, logistics, and communications.
+- **Goi Yue Tian** – Research on cybersecurity and fine-tuning drone demo code. [Google Scholar](https://scholar.google.com/citations?user=EXAMPLE1)
+- **Tan Pei Sze** – Handles hand gesture recognition for drone. [Google Scholar](https://scholar.google.com/citations?user=EXAMPLE1)
+- **Tan Min Xuan** – Works on puppy-pi hardware and custom builds.
+- **Karen Koh** – Works on puppy-pi hardware and custom builds.
 
 ---
 
