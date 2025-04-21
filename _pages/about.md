@@ -38,23 +38,24 @@ We are equipped with a variety of cutting-edge drones and other hardware that al
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.5rem;">
   <div style="text-align: center;">
-    <img src="https://example.com/drone1.jpg" alt="Drone Model 1" width="100%" />
+    <img src="https://noobasuna.github.io/monash_drone/images/fpv.png" alt="Drone Model 1" width="100%" height="200px" style="object-fit: cover;" />
     <h4>DJI FPV Drone</h4>
-    <p>A high-performance drone designed for capturing high-resolution unmanned aerial vehicle (UAV) datasets with 4k camera.</p>
+    <p>A high-performance drone designed for capturing high-resolution unmanned aerial vehicle (UAV) datasets with a 4k camera.</p>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://example.com/drone2.jpg" alt="Drone Model 2" width="100%" />
+    <img src="https://noobasuna.github.io/monash_drone/images/IMG_9690.jpg" alt="Drone Model 2" width="100%" height="200px" style="object-fit: cover;" />
     <h4>DJI Tello Edu</h4>
     <p>A smaller, lightweight drone optimized for indoor flight and precision machine learning tasks.</p>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://example.com/drone3.jpg" alt="Drone Model 3" width="100%" />
+    <img src="https://noobasuna.github.io/monash_drone/images/codrone.png" alt="Drone Model 3" width="100%" height="200px" style="object-fit: cover;" />
     <h4>Drone Edu</h4>
-    <p>A lightweight drone to perform simple flying task with application controller.</p>
+    <p>A lightweight drone to perform simple flying tasks with an application controller.</p>
   </div>
 </div>
+
 
 ## 👨‍💻 Our Team
  
