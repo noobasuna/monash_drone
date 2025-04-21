@@ -30,7 +30,7 @@ Welcome to the Monash Malaysia Drone Team! We are a diverse group of passionate 
 
 ## 🛠️ Technical Specialist
 
-- **Mr. Faizal Ahmad** – Manages drone maintenance, troubleshooting, and technical training.
+- **Mr. Tc. Bathmanathan Arjuna** – Manages drone maintenance, troubleshooting, and technical training.
 
 ---
 
