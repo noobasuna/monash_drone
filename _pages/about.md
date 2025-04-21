@@ -54,6 +54,12 @@ We are equipped with a variety of cutting-edge drones and other hardware that al
     <h4>Drone Edu</h4>
     <p>A lightweight drone to perform simple flying tasks with an application controller.</p>
   </div>
+
+  <div style="text-align: center;">
+    <img src="https://noobasuna.github.io/monash_drone/images/robomaster.png" alt="Drone Model 3" width="100%" height="200px" style="object-fit: cover;" />
+    <h4>DJI Robomaster</h4>
+    <p>The RoboMaster S1 is a game-changing educational robot built to unlock the potential in every learner.</p>
+  </div>
 </div>
 
 
