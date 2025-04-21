@@ -6,6 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  body {
+    background-image: url('https://noobasuna.github.io/monash_drone/images/359.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+</style>
 
 <p align="center">
   <img src="https://noobasuna.github.io/monash_drone/images/359.jpg" alt="About Us" width="600"/>
