@@ -1,7 +1,7 @@
 ---
 title: "Team Members"
 collection: teaching
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/team-members
 date: 2024-01-01
 ---
 
